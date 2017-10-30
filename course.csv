@@ -1,0 +1,43 @@
+courseNum,title,credits,offering
+CS 170,Intro to Computer Science I,4,Y
+CS 171,Intro to Computer Science II,3,Y
+CS 224,Discrete Structures,3,Y
+CS 255,Computer Organization / Assembly Programming,3,Y
+CS 323,Data Structures and Algorithms,3,Y
+CS 325,Artificial Intelligence,3,S
+CS 329,Computational Linguistics,3,R
+CS 355,Computer Architecture,3,S
+CS 370,Computer Science Practicum,3,S
+CS 377,Database Systems,3,Y
+CS 378,Data Mining,3,S
+CS 424,Theory of Computing,3,S
+CS 450,Systems Programming,3,F
+CS 452,Operating Systems,3,S
+CS 453,Computer Security,3,R
+CS 455,Intro to Computer Networking,3,R
+CS 456,Compiler Construction,4,F
+MATH 111,Calculus I,3,Y
+MATH 112,Calculus II,3,Y
+MATH 211,Multivariable Calculus,3,Y
+MATH 212,Differential Equations,3,Y
+MATH 221,Linear Algebra,4,Y
+MATH 250,Foundations of Mathematics,3,Y
+MATH 270,History and Philosophy of Math,3,R
+MATH 315,Numerical Analysis,3,Y
+MATH 318,Complex Variables,3,F
+MATH 321,Abstract Vector Spaces,3,S
+MATH 328,Number Theory,3,R
+MATH 330,Intro to Combinatorics,3,R
+MATH 344,Differential Geometry,3,R
+MATH 345,Mathematical Modeling,3,R
+MATH 346,Intro to Optimization Theory,3,Y
+MATH 347,Intro to Nonlinear Optimization,3,R
+MATH 351,Partial Differential Equations,3,Y
+MATH 352,PDE's in Action,3,R
+MATH 361,Probability and Statistics I ,3,F
+MATH 362,Probability and Statistics II,3,S
+MATH 411,Real Analysis I,3,F
+MATH 412,Real Analysis II,3,S
+MATH 421,Abstract Algebra I,3,F
+MATH 422,Abstract Algebra II,3,S
+MATH 425,Mathematical Economics,3,Y
